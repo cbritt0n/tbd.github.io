@@ -1,0 +1,9 @@
+body{
+	background-image: url(Images/team.png);
+	background-size: cover;
+	background-color:rgba(0, 0, 0, 0.5);
+
+}
+a{
+	color:white;
+}
