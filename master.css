@@ -1,6 +1,6 @@
 h1,h2,h3
 {
-	text-align: centerm;
+	text-align: center;
 }
 
 body
@@ -11,9 +11,12 @@ body
 
 .center
 {
-	margin: auto;
-	border: none;
-	padding 10px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
 div.a
 {
 	color:black;
@@ -23,5 +26,12 @@ div.a
 {
 	width: 250px;
 	text-align: center:
+}
+
+img
+{
+	max-width: 500px;
+	height: auto;
+	image-align: center;
 }
 
