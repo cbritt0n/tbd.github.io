@@ -1,9 +1,27 @@
-body{
-	background-image: url(Images/team.png);
-	background-size: cover;
-	background-color:rgba(0, 0, 0, 0.5);
+h1,h2,h3
+{
+	text-align: centerm;
+}
+
+body
+{
+	background-color:#ffffff;
 
 }
-a{
-	color:white;
+
+.center
+{
+	margin: auto;
+	border: none;
+	padding 10px;
+div.a
+{
+	color:black;
 }
+
+.link
+{
+	width: 250px;
+	text-align: center:
+}
+
